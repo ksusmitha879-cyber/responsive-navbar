@@ -1,5 +1,5 @@
 # responsive-navbar
-Here’s a professional **README.md** you can use for your `responsive-navbar` repository. It highlights the purpose, features, and usage clearly:
+
 
 ```markdown
 # 📱 Responsive Navbar
