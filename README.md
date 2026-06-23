@@ -1,7 +1,6 @@
 # responsive-navbar
 
 
-```markdown
 # 📱 Responsive Navbar
 
 A clean and modern **responsive navigation bar** built with **HTML, CSS, and JavaScript**.  
@@ -27,7 +26,7 @@ This project demonstrates how to create a mobile-friendly navbar with toggle fun
 ---
 
 ## 📂 Project Structure
-```
+
 responsive-navbar/
 │── index.html
 │── style.css
@@ -35,7 +34,7 @@ responsive-navbar/
 │── LICENSE
 │── README.md
 └── .gitignore
-```
+
 
 ---
 
@@ -70,7 +69,6 @@ This project is licensed under the **Apache-2.0 License** – free to use and mo
 ## 👩‍💻 Author
 **Karanam Susmitha**  
 - GitHub: @ksusmitha879-cyber [(github.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fgithub.com%2Fksusmitha879-cyber")  
-- Portfolio: _Coming Soon_
 
 ---
 
